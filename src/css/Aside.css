@@ -1,0 +1,19 @@
+.prayer__time_container{
+  border: 5px rgb(255, 255, 0) solid;
+  display: inline-block;
+}
+
+.prayer__time_container li {
+  list-style: none;
+  padding: 10px;
+}
+
+.prayer__time_container  li {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.prayer__time_container li{
+  font-size: larger;
+}

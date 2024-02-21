@@ -1,0 +1,23 @@
+.header{
+  padding: 10px;
+  display: flex;
+  border: 1px rgb(255, 0, 0) solid;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.refresh__button__container, 
+.config__button__container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.header p {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.header p span{
+  font-weight: normal;
+}
